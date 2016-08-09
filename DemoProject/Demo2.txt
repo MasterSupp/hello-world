@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 first edit by first laptop
 
 
@@ -11,3 +12,5 @@ Second edit by Second  laptop
 
 Third edit by Third laptop
 >>>>>>> origin/Demo-Branch
+=======
+>>>>>>> parent of 35fe29b... first edit by first laptop
