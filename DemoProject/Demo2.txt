@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 first edit by first laptop
 
 
 Second edit by Second  laptop
+=======
+>>>>>>> parent of 35fe29b... first edit by first laptop
