@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 first edit by first laptop
 
 
@@ -5,3 +6,6 @@ Second edit by Second  laptop
 
 
 Third edit by Third laptop
+=======
+first edit by first laptop
+>>>>>>> parent of 4e3bc22... Second edit by Second  laptop
